@@ -1,5 +1,5 @@
 # Spiders
-All about my spiders skill, more details at [Spiders](http://blog.sidfate.com/spiders)
+All about my spiders skill, more details at [Spiders](http://blog.sidfate.com/spider/)
 
 
 ### urllib2_threads
